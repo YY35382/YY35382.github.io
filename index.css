@@ -1,0 +1,11 @@
+body{
+	background-image:url(bg.jpg);
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+div{
+	opacity:0;
+	transition:1s;
+	background-image:url(text.png);
+	position:fixed;
+}
